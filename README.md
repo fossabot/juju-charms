@@ -1,6 +1,8 @@
 Juju Charms for RestComm Components
 
 # Deploying/Starting Juju
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FRestComm%2Fjuju-charms.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FRestComm%2Fjuju-charms?ref=badge_shield)
+
 
 
     #boostrap Juju environment
@@ -56,3 +58,7 @@ Please refer to this link: http://caniuse.com/#search=webrtc  for the most up-to
 When you done, you can clean ennviroment and destroy all services (do not terminate machines). 
 
     juju-deployer -D 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FRestComm%2Fjuju-charms.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FRestComm%2Fjuju-charms?ref=badge_large)
